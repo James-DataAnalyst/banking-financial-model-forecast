@@ -141,14 +141,21 @@ banking-financial-model-forecast/
 
 The working Excel file and source datasets are intentionally excluded from this public portfolio package. The repository documents the model architecture, analytical approach, and presentation outputs without exposing underlying records, proprietary formulas, or confidential working material.
 
-## Author
+## Project Team
 
-**James Isaac**  
-Data Analyst · Business Intelligence · Financial Modeling
+### James Isaac
+
+**BI & Analytics Consultant · Financial Modeling · Dashboard Design**
 
 - Portfolio: [jamesisaac.dev](https://www.jamesisaac.dev)
 - GitHub: [James-DataAnalyst](https://github.com/James-DataAnalyst)
 
+### Vee Castor
+
+**Financial Analyst · Philippines**
+
+Project collaborator on the financial analysis, modeling approach, and interpretation of the results.
+
 ---
 
-If this project is useful for evaluating my work, please reference the repository rather than redistributing its images or documentation.
+If this project is useful for evaluating our work, please reference the repository rather than redistributing its images or documentation.
